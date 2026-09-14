@@ -27,7 +27,7 @@ DB_NAME=thk_mesaj_db
 
 1. Clone the repository
    ```bash
-   git clone [https://github.com/boraavcu/rektore-mesaj-sistemi.git](https://github.com/boraavcu/rektore-mesaj-sistemi.git)
+   git clone [https://github.com/boraavcu/thk-rektore-mesaj-sistemi.git](https://github.com/boraavcu/thk-rektore-mesaj-sistemi.git)
    ```
 
 2. Install Frontend Dependencies
