@@ -9,36 +9,50 @@ A full-stack web application developed to digitize, streamline, and securely man
 * **Responsive UI:** Modern and accessible user interface tailored for university staff.
 
 **Tech Stack**
-* **Frontend:** React.js, Vite, CSS/Tailwind (Update if using specific CSS frameworks)
+* **Frontend:** React.js, Vite, CSS
 * **Backend:** Node.js, Express.js
 * **Database:** PostgreSQL, pgAdmin
 
 **Environment Variables**
 To run this project locally, you will need to add the following environment variables to your `.env` file in the `backend` folder. *(Note: Never commit your actual passwords to GitHub).*
 
-`PORT=5000`
-`DB_USER=postgres`
-`DB_PASSWORD=your_database_password`
-`DB_HOST=localhost`
-`DB_PORT=5432`
-`DB_NAME=thk_mesaj_db`
-
-**Local Installation**
+```env
+PORT=5000
+DB_USER=postgres
+DB_PASSWORD=your_database_password
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=thk_mesaj_db
+```
 
 1. Clone the repository
    ```bash
    git clone [https://github.com/boraavcu/rektore-mesaj-sistemi.git](https://github.com/boraavcu/rektore-mesaj-sistemi.git)
+   ```
 
-1. Install Frontend Dependencies
+2. Install Frontend Dependencies
+   ```bash
    cd frontend
    npm install
+   ```
 
-2. Install Backend Dependencies
-   cd ../backend
+3. Install Backend Dependencies
+   ```bash
+   cd backend
    npm install
+   ```
 
-3. Start the Application
-   Run the backend: cd backend && node server.js or npm run dev or
-   Run the frontend: cd frontend && npm run dev
+4. Start the Application
+   
+   Run the backend
+   ```bash
+   cd backend
+   npm run dev or node server.js
+   ```
+   Run the frontend
+      ```bash
+   cd frontend
+   npm run dev
+   ```
 
-Developed by Bora Avcu for the University of Turkish Aeronautical Association (UTAA/THKÜ)
+Developed by Bora Avcu for the University of Turkish Aeronautical Association (THKÜ).
