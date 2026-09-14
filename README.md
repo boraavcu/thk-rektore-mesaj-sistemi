@@ -56,3 +56,15 @@ DB_NAME=thk_mesaj_db
    ```
 
 Developed by Bora Avcu for the University of Turkish Aeronautical Association (THKÜ).
+
+ScreenShots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ef8532a-4ba8-4969-8cf4-9a2f57b24afc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a54e5ad-bf84-4ace-b5b0-c3b2af8bab22" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35b9d4ad-2bda-4147-bbb6-a7cfad124a16" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64a35c18-1f8e-4266-b7f8-5c818c669808" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba157e73-21ba-4294-9133-259637f0a59c" />
+
+
+
+
+
